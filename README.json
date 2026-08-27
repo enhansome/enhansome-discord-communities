@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T09:49:25.939Z",
-    "original_repository": "mhxion/awesome-discord-communities",
-    "original_repository_id": 203677928,
+    "last_updated": "2026-08-27T11:37:27.109Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 203677928,
+      "language": "Python",
+      "last_commit": "2026-04-25T19:09:39Z",
+      "owner": "mhxion",
+      "repo": "awesome-discord-communities",
+      "stars": 3580
+    },
     "original_repository_sha": "1d973a9d4f59325ef11c48d0b2dde887cf688808",
     "enhanced_repository": "enhansome/enhansome-discord-communities",
     "enhanced_repository_description": null,
