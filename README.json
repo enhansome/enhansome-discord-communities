@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-04T13:22:21.373Z",
+    "last_updated": "2026-09-05T12:31:03.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Discord communities for programmers",
@@ -10,7 +10,7 @@
       "language": "Python",
       "license": "CC-BY-4.0",
       "last_commit": "2026-04-25T19:09:39Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "mhxion",
       "repo": "awesome-discord-communities",
       "stars": 3586,
